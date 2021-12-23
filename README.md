@@ -8,7 +8,7 @@ I'm Lins Louis! I'm a **Android Developer**:iphone:, looking to solve **real-wor
 <!-- Your badges -->
 <!-- [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN) -->
 [![Linkedin](https://img.shields.io/badge/-linslouis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linslouis)
-[![Gmail](https://img.shields.io/badge/-nowfal-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nowfal@nowfal.in)
+[![Gmail](https://img.shields.io/badge/-123linslouis-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:123linslouis@gmail.com)
 <!-- [![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma) -->
 <!-- [![CodePen](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/joykishan_sharma) -->
 <!-- [![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan) -->
