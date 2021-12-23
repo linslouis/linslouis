@@ -20,7 +20,7 @@ I'm Lins Louis! I'm a **Android Developer**:iphone:, looking to solve **real-wor
 [![Github](https://img.shields.io/badge/-linslouis-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/linslouis)
 
 <!-- Sample Dev class image -->
-<img src="https://raw.githubusercontent.com/linslouis/linslouis/main/dev_nowfal.png" alt="dev_nowfal" align="right" width="500" />
+<img src="https://raw.githubusercontent.com/linslouis/linslouis/main/Untitled-1.png" alt="dev_lins" align="right" width="500" />
 
 ### 💼  Things that I'm currently working on: 
 * Coding and building native android and flutter apps  Web:iphone: Development
